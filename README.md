@@ -3,7 +3,7 @@
 A tiny, modern MQTT/UDP client.
 
 > [!TIP]
-> To learn how MQTT/UDP is different from traditional MQTT, read [this](https://mqtt-udp.readthedocs.io/en/stable/).
+> To learn how MQTT/UDP is different from traditional MQTT, read the [protocol spec](https://mqtt-udp.lemonyte.com/protocol/).
 
 ## Features
 
