@@ -1,0 +1,4 @@
+th:not(:first-child),
+td:not(:first-child) {
+    border-left: .05rem solid var(--md-typeset-table-color);
+}
