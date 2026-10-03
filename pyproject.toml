@@ -38,7 +38,7 @@ Repository = "https://github.com/lemonyte/mqtt-udp"
 [dependency-groups]
 dev = [
     "paho-mqtt~=2.1.0",
-    "prek~=0.3.8",
+    "prek>=0.3.8,<0.6.0",
 ]
 docs = [
     "mkdocstrings-python~=2.0.9",
